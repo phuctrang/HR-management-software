@@ -1,0 +1,6 @@
+D:\BaiCuoiKy\BaiCuoiKy\bin\BaiCuoiKy.dll.config
+D:\BaiCuoiKy\BaiCuoiKy\bin\BaiCuoiKy.dll
+D:\BaiCuoiKy\BaiCuoiKy\bin\BaiCuoiKy.pdb
+D:\BaiCuoiKy\BaiCuoiKy\obj\Debug\BaiCuoiKy.csprojResolveAssemblyReference.cache
+D:\BaiCuoiKy\BaiCuoiKy\obj\Debug\BaiCuoiKy.dll
+D:\BaiCuoiKy\BaiCuoiKy\obj\Debug\BaiCuoiKy.pdb
